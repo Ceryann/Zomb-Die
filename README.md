@@ -1,5 +1,8 @@
 # 🧟 ZOMB DIE
 
+[![Bahasa Indonesia](https://img.shields.io/badge/Bahasa-Indonesia-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.en.md)
+
 ### Mereka datang dari kiri. Mereka datang dari kanan. Kamu cuma punya satu senjata dan satu pilihan: **bertahan.**
 
 Zombie nggak pernah berhenti, dan kamu juga jangan. Ambil senjatamu, jadi **Leon**, lalu tembak sejauh mungkin sebelum mereka menangkapmu. Seberapa jauh kamu bisa lari?
